@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1> Languages </h1>
+<a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> 
 <div align="center">
 
-![gardenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=gardenia1109&show_icons=true&theme=radical)
+![boyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmdnlxjqk&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gardenia1109&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmdnlxjqk&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div> 
