@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
 
-![boyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmdnlxjqk&show_icons=true&theme=radical)
+![boyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=boyoung589&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmdnlxjqk&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boyoung589&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div> 
